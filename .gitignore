@@ -1,2 +1,4 @@
 innoday/.venv/
 innoday/__pycache__/
+*.jl
+innoday/.vscode/
